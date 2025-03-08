@@ -8,7 +8,7 @@
     "dev": "nodemon app.js",
     "start-server": "node app.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Karthik Kolamuri",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"

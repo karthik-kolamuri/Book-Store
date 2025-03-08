@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: book-store
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run start-server
